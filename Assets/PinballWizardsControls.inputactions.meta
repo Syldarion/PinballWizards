@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6c471e4a7dd0c734ebdc2b7ba2016cd4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: Assets/Scripts/PinballWizardsControls.cs
+  wrapperClassName: 
+  wrapperCodeNamespace: 
